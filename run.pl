@@ -1,0 +1,1 @@
+:- consult('rules/all-rules.pl').
